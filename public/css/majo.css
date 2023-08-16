@@ -1,0 +1,12 @@
+/*estilos globais do site */
+html {
+    height: 100%;
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family:cursive;
+    color:firebrick;
+    margin: 0;
+    text-align: center;
+}

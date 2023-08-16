@@ -1,0 +1,11 @@
+
+.cover-container figure img {
+    width: 80%;
+}
+
+.imagem-container img {
+    width: 15%;
+    height: 20%;
+    margin-right: 5px;
+}
+
